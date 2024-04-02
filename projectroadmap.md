@@ -1,0 +1,6 @@
+- [x] Create repository
+- [x] Create README
+- [x] Create project roadmap
+- [x] Get started on the on adding Tax dudctions
+- [x] Look over an revise the paycheck calculator 
+- [ ] Add any of the files that helped you create this project
