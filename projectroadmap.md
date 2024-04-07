@@ -1,6 +1,9 @@
 - [x] Create repository
 - [x] Create README
 - [x] Create project roadmap
-- [x] Get started on the on adding Tax dudctions
-- [x] Look over an revise the paycheck calculator 
-- [ ] Add any of the files that helped you create this project
+- [x] Get started on the on adding Hashtags
+- [x] Look over an revise the ORGINAL paycheck calculator 
+- [ ] Research what the federal tax deduction rate is
+- [ ] Make sure the calculations are correct
+- [ ] Check for any spelling or grammar errors in code
+- [ ] Make sure code is running and submit 
