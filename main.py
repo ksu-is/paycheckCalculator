@@ -16,6 +16,7 @@ else:
     otHours = totalHours - 40
     regHours = totalHours - otHours
     totalPay = (otHours * payRate * 1.5 ) + (regHours * payRate)
+    # Calculating the federal tax
 
 print('Your paycheck will be: $', "{:.2f}".format(totalPay))
 
