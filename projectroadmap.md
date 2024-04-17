@@ -3,7 +3,7 @@
 - [x] Create project roadmap
 - [x] Get started on the on adding Hashtags
 - [x] Look over an revise the ORGINAL paycheck calculator 
-- [ ] Research what the federal tax deduction rate is
-- [ ] Make sure the calculations are correct
-- [ ] Check for any spelling or grammar errors in code
+- [x] Research what the federal tax deduction rate is
+- [x] Make sure the calculations are correct
+- [x] Check for any spelling or grammar errors in code
 - [ ] Make sure code is running and submit 
