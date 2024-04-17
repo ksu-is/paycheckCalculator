@@ -17,7 +17,11 @@ else:
     regHours = totalHours - otHours
     totalPay = (otHours * payRate * 1.5 ) + (regHours * payRate)
     # Calculating the federal tax
-
+    federalTax = totalPay * 0.0874
+# Calculating the net pay
+netPay = totalPay-federalTax
+# Displaying the results
 print('Your paycheck will be: $', "{:.2f}".format(totalPay))
-
+print('Federal Tax: $',"{:.2f}".format(federalTax))
+print('Net Pay: $',"{:.2f}".format(netPay))
 
